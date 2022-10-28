@@ -6,3 +6,4 @@ x=y
 y=temp
 print('value of x:' ,x)
 print('value f y:' ,y) 
+print(y)
